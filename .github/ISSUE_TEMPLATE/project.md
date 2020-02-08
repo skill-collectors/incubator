@@ -1,3 +1,4 @@
+---
 name: project
 about: Suggest a new project for the club to organize
 ---
