@@ -6,6 +6,10 @@ Repository for project ideas for the club.
 
 _TBD_
 
+## How do I join the club?
+
+[Request to join the organization](https://github.com/skill-collectors/incubator/issues/new?assignees=ajoberstar&labels=kind%2Forg+join&template=join.md&title=Request+to+join+org) and we'll get you added.
+
 ## How do you submit an idea?
 
 [Create a new project](https://github.com/skill-collectors/incubator/issues/new?template=project.md). Fill in the template as much as you can.
