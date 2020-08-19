@@ -25,3 +25,13 @@ Go to our [Project Ideas](https://github.com/skill-collectors/incubator/projects
 ## How do ideas get off the ground?
 
 _We'll see_
+
+### Mission Statement
+
+To build an active, independent, technology-focused community of enthusiasts, skill collectors, and makers where members can propose or join fun and interesting projects and learning activities to promote collaborative continuous learning and self-improvement.
+
+### Core Values
+
+- The primary motivations for club activities are curiosity and fun.
+- People of all skill levels are welcome. All members and ideas will be treated with respect.
+- Members will have opportunities to collaborate and build friendships.
