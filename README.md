@@ -8,7 +8,7 @@ _TBD_
 
 ## How do I join the club?
 
-[Request to join the organization](https://github.com/skill-collectors/incubator/issues/new?assignees=ajoberstar&labels=kind%2Forg+join&template=join.md&title=Request+to+join+org) and we'll get you added.
+[Request to join the organization](https://github.com/skill-collectors/incubator/issues/new?assignees=dave-burke&labels=kind%2Forg+join&template=join.md&title=Request+to+join+org) and we'll get you added.
 
 ## How do you submit an idea?
 
